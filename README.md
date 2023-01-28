@@ -13,3 +13,7 @@ Basic note-taking app with Next.js 13 and Pocketbase.
 2. Install dependencies `npm install`
 3. Start Pocketbase: `./pocketbase serve`
 4. Start the App: `npm run dev`
+
+Obs= database Adm user
+login: `diogocav@ok.com
+password: `1236547899`
