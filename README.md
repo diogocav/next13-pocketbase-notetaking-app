@@ -15,5 +15,6 @@ Basic note-taking app with Next.js 13 and Pocketbase.
 4. Start the App: `npm run dev`
 
 Obs= database Adm user
-login: `diogocav@ok.com
+login: `diogocav@ok.com`
+<br>
 password: `1236547899`
