@@ -4,6 +4,7 @@ Basic note-taking app with Next.js 13 and Pocketbase.
 
 ### Made following Fireship tutorial.
 [video](https://www.youtube.com/watch?v=__mSgDEOyv8&t=231s&ab_channel=BeyondFireship)
+<br>
 [github repo](https://github.com/fireship-io/next13-pocketbase-demo)
 
 ### Setup
