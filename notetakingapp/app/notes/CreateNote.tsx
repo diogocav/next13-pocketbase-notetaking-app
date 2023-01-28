@@ -10,6 +10,8 @@ export default function CreateNote() {
     const router = useRouter();
 
     const create = async() => {
+
+        // this also can be done using pocketbase sdk
         await fetch('http://127.0.0.1:8090/api/collections/notes/records', {
             method: 'POST',
             headers: {

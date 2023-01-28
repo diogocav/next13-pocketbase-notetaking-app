@@ -1,7 +1,7 @@
 import Link from "next/link";
 import PocketBase from "pocketbase";
 import styles from './Notes.module.css';
-import CreateNote from "./[id]/CreateNote";
+import CreateNote from "./CreateNote";
 
 export const dynamic = 'auto',
     dynamicParams = true,
